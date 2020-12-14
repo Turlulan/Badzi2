@@ -48,7 +48,7 @@ client.on('message', msg => {
       msg.react("🅰")
     }
 })
-/*
+/* badzo
 //Msg suppr
 client.on('messageDelete', msg => {
     msg.channel.send(`${CONTENT_MSG_SUPPR}`)
